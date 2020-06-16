@@ -6,7 +6,7 @@ hello everyone,
 
 Student at banasthali vidyapeeth
 
-visit my profile [linkedIn page](https://www.linkedin.com/in/sneha-singh-405958198)
+visit my profile  at [linkedIn page](https://www.linkedin.com/in/sneha-singh-405958198)
 
 in words of Abraham Lincon:
 >*live your life to fullest*
@@ -46,3 +46,5 @@ qualifications:
 
 hello everyone :smiley:
 good to see you, visit my profile :wink:
+
+> what a pro
