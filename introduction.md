@@ -15,7 +15,7 @@ git add .
 git colon
 ```
 words to describe myself:
--enthusiastic
--cheerfull
--loving
+*enthusiastic
+*cheerfull
+*loving
 -caring
