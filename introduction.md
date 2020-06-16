@@ -39,3 +39,6 @@ qualifications:
 - [ ] BTech 2nd yr
 - [ ] BTech 3rd yr
 - [ ] BTech 4th yr
+
+
+hello everyone :smiley:
