@@ -36,3 +36,6 @@ qualifications:
 - [x] 10th CBSE
 - [x] 12th CBSE
 - [x] BTech 1st yr
+- [ ] BTech 2nd yr
+- [ ] BTech 3rd yr
+- [ ] BTech 4th yr
