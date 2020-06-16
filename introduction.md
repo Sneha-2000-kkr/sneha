@@ -7,3 +7,10 @@ visit my profile [linkedIn page](https://www.linkedin.com/in/sneha-singh-4059581
 
 in words of Abraham Lincon:
 >*live your life to fullest*
+
+git commands:
+```
+git command
+git add .
+git colon
+```
