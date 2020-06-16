@@ -30,3 +30,9 @@ list for today:
 - potato
 - beans
 - egg
+
+
+qualifications:
+- [x] 10th CBSE
+- [x] 12th CBSE
+- [x] BTech 1st yr
