@@ -24,3 +24,9 @@ words to describe myself:
 1. First Item
    - First Nested Item
      - second nested list  
+
+list for today:
+- cabbage
+- potato
+- beans
+- egg
